@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TungstenRust
-- 👀 I’m interested in Secure Rust Web and in Secure Embedded Development, Currently DevSecOps Expert
-- 💞️ I’m looking to collaborate with Professional Rustaceans
+- 👀 I’m interested in Secure Golang Microservices Development, Currently DevSecOps Expert
 - 📫 How to reach me tungsten.rust@gmail.com
 
 <!---
