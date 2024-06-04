@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TungstenRust
-- 👀 I’m interested in Secure Golang Java Microservices and Mobile Development, Currently DevSecOps Engineer
+- 👀 I’m interested in Secure Golang Java Microservices and Mobile Development, DevSecOps Engineer
 - 📫 How to reach me tungsten.rust@gmail.com
 
 <!---
